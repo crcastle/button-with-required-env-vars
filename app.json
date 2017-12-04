@@ -1,0 +1,7 @@
+{
+  "env": {
+    "REQUIRED_ENV_VAR": {
+      "description": "This env var requires a human to provide a value."
+    }
+  }
+}
